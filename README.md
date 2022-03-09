@@ -1,3 +1,6 @@
+## Bem-vindo(a) ao perfil do Engenheiro e também estudante em tecnologia Luiz-Batista, meu objetivo é aprender e atuar na área.
+## Em busca da primeira oportunidade de trabalho, coloco-me à disposição para inicar a minha carreira.
+
 <div>
   <a href="https://github.com/Luiz-Batista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Batista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Conheça-me um pouco melhor, acesse minha rede social ou entre em contato!
  
 <div> 
   <a href="https://www.linkedin.com/in/luizotavio-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
