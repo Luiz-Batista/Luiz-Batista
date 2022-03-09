@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Engenheiro e também estudante em tecnologia Luiz-Batista.
+## Bem-vindo(a) ao perfil do Engenheiro e também estudante em tecnologia Luiz-Batista
 #### Em busca da primeira oportunidade de trabalho, coloco-me à disposição para inicar a minha carreira.
 
 <div>
