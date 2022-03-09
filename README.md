@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Engenheiro e também estudante em tecnologia Luiz-Batista, meu objetivo é aprender e atuar na área.
-## Em busca da primeira oportunidade de trabalho, coloco-me à disposição para inicar a minha carreira.
+## Bem-vindo(a) ao perfil do Engenheiro e também estudante em tecnologia Luiz-Batista.
+#### Em busca da primeira oportunidade de trabalho, coloco-me à disposição para inicar a minha carreira.
 
 <div>
   <a href="https://github.com/Luiz-Batista">
